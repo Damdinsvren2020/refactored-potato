@@ -1,0 +1,13 @@
+.Home_Banner_Containers {
+  display: flex;
+  max-width: 1400px;
+  margin: auto;
+}
+.Home_Container_Sidebar {
+  width: 400px;
+  height: 900px;
+}
+.Home_Container_Navbar {
+  width: 1000px;
+  margin-top: 60px;
+}
